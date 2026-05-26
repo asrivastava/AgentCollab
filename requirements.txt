@@ -1,2 +1,3 @@
+google-ai-agent
 google-generativeai
 python-dotenv
